@@ -1,1 +1,11 @@
+# My Note - com.devandroid2006.mynote
+google.com, pub-9459998080533841, DIRECT, f08c47fec0942fa0
+
+# Date & Time Calculator - com.devandroid2006.datetimecalculator
+google.com, pub-9459998080533841, DIRECT, f08c47fec0942fa0
+
+# My Locker - com.devandroid2006.mylocker
+google.com, pub-9459998080533841, DIRECT, f08c47fec0942fa0
+
+# My Links - com.devandroid2006.mylinks
 google.com, pub-9459998080533841, DIRECT, f08c47fec0942fa0
